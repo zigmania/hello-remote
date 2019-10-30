@@ -4,8 +4,8 @@ it is **soooo** nice to bla bla
 
 once you get *it*:
 
-*bla bla
-*bla
+* bla bla
+* bla
 
 now you can like 'console.writeline("Hello Markdown!");'
 
